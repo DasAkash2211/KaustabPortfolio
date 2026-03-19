@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="mb-8 animate-float">
           <div className="w-40 h-40 mx-auto rounded-full overflow-hidden border-4 border-cyan-500 shadow-2xl shadow-cyan-500/50 flex items-center justify-center">
             <img
-              src="/WhatsApp_Image_2026-03-12_at_20.48.21.jpeg"
+              src="/kroy.jpeg"
               alt="Kaustab Roy"
               className="w-full h-full object-cover"
             />
